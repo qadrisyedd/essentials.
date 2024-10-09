@@ -1,6 +1,6 @@
 # Essentials
 
-Essentials is a Tkinter application that provides you with smaller 'essential' applications to help you focus and keep you from becoming distracted. It includes apps like a weather checker, to-do list, calculator, notes, whiteboard, music player, and stopwatch.
+Essentials is a Tkinter application that provides you with smaller 'essential' applications to help you focus and keep you from becoming distracted. It includes apps like a music player, to-do list, calculator, notes, whiteboard, password generator, and stopwatch.
 
 ## [README](https://docs.google.com/presentation/d/167yQcoSSCJdbh0iFlXM6PY3k-sy4MoF2BZiNnE8S0I8/edit?usp=sharing)
 
