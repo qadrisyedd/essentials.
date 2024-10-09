@@ -4,7 +4,7 @@ Essentials is a Tkinter application that provides you with smaller 'essential' a
 
 ## [README](https://docs.google.com/presentation/d/167yQcoSSCJdbh0iFlXM6PY3k-sy4MoF2BZiNnE8S0I8/edit?usp=sharing)
 
-Click on the link above for an introduction to the Essentials app, including a detailed walkthrough.
+Click on the 'README' subhedding for an introduction to the Essentials app, including a detailed walkthrough.
 
 ## Downloads and How to Run
 
