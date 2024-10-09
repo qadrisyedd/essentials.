@@ -11,7 +11,7 @@ Click on the 'README' subhedding for an introduction to the Essentials app, incl
 Follow these steps to get the Essentials app up and running on your system:
 
 1. **Download both Python files:**
-   - `essential.py` (Main file)
+   - `essentials.py` (Main file)
    - `directory.py` (Secondary file)
    
    Both files are required for the app to work correctly.
